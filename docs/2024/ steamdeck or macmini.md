@@ -4,10 +4,10 @@ catalog:
 date: '2024-01-01 00:00:00'
 type: Post
 slug: diray_1
-title: 杂谈| steamdeck or macmini?
+title: ' steamdeck or macmini?'
 status: 已发布
 urlname: e0b1d2f3-5cbc-450e-9619-828520616d52
-updated: '2024-04-06 00:20:00'
+updated: '2024-05-10 23:55:00'
 ---
 
 2024年的第一天我便开始考虑购买一个新的东西。在2023年我买了一个个人的主机，感觉还是不错的，在上半年我用他码了不少代码，也尝试了不少的东西。

@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import {set_sidebar} from './set_sidebar.mjs'
-import {set_nav} from './set_nav.mjs'
+// import {set_nav} from './set_nav.mjs'
+import {getfirstZK} from './set_sidebar.mjs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -11,7 +12,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '博客', link: '/介绍页' },{
-        text:'周刊',link:'/zhoukan/'+set_nav('docs/zhoukan')
+        text:'周刊',link:getfirstZK()
       }
     ],
 
@@ -26,7 +27,7 @@ export default defineConfig({
     //   }
     // ],
     siteTitle: 'YisuPower',
-    sidebar: {'/': set_sidebar('docs'),
+    sidebar: {'/': set_sidebar('docs/2023',0),
               '/zhoukan/':set_sidebar('docs/zhoukan',1)},  
     
 
