@@ -1,7 +1,7 @@
 ---
 catalog:
   - '2024'
-date: '2024-01-01 00:00:00'
+date: '2024-01-01 08:00:00'
 type: Post
 slug: diray_1
 title: ' steamdeck or macmini?'

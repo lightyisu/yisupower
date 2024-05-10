@@ -1,7 +1,7 @@
 ---
 catalog:
   - '2023'
-date: '2023-08-06 00:00:00'
+date: '2023-08-06 08:00:00'
 type: Page
 slug: about
 title: About

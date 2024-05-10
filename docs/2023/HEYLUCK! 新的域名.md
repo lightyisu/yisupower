@@ -1,7 +1,7 @@
 ---
 catalog:
   - '2023'
-date: '2023-08-06 00:00:00'
+date: '2023-08-06 08:00:00'
 type: Post
 slug: newdomain
 title: HEYLUCK! 新的域名
