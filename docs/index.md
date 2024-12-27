@@ -14,8 +14,11 @@ hero:
       text: 博客
       link: /介绍页
     - theme: alt
-      text: 周刊
+      text: 好玩周刊
       link: /#
+    - theme: alt
+      text: Photos
+      link: /photos
 
 features:
   - title: 前端

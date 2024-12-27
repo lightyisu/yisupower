@@ -12,6 +12,7 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // ...
+    
+    console.log(siteData)
   }
 } satisfies Theme

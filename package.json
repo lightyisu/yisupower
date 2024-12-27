@@ -1,6 +1,5 @@
 {
   "devDependencies": {
-    
     "vue": "^3.4.21"
   },
   "scripts": {
@@ -15,6 +14,6 @@
   },
   "dependencies": {
     "@elog/cli": "^0.13.3",
-    "vitepress": "^1.0.2"
+    "vitepress": "^1.5.0"
   }
 }
