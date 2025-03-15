@@ -6,7 +6,7 @@ import {getfirstZK} from './set_sidebar.mjs'
 const firstZK=getfirstZK()
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "YisuPower-lightyisu的个人博客",
+  title: "YisuX-lightyisu的个人博客",
   description: "blog",
   
   themeConfig: {
@@ -20,14 +20,18 @@ export default defineConfig({
     ],
 
   
-    siteTitle: 'YisuPower',
+    siteTitle: 'YisuX',
     sidebar: {'/': set_sidebar('docs/2023',0),
               '/zhoukan/':set_sidebar('docs/zhoukan',1)},  
     
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/lightyisu/yisupower' }
-    ]
+    ],
+    footer: {
+      message: 'YisuX.com ',
+      copyright: 'Copyright © 2020-2025 lightyisu'
+    }
   },
   markdown:{
     image: {

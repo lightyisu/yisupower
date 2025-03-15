@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Yisu Power"
-  text: "Blog X 日志"
+  name: "YisuX"
+  text: "Blog & 日志"
   tagline: Keep recording since 2020
   image:
     src: /banner.png
@@ -25,7 +25,7 @@ features:
     details: 💻 写一点Vue,React相关
   - title: 想法
     details: 🎉 记录有时候的灵感
-  - title: 游戏
+  - title: 游戏&电影
     details: 🕹 也许是一些体验或者记录
 ---
 

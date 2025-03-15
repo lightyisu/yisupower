@@ -146,3 +146,10 @@ pre{
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+.title .VPNavBarTitle span{
+  background-image: url('/logo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  min-width: 70px;
+  text-indent: -9999px; /* 将文字移出可视区域 */
+}
